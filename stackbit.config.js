@@ -6,7 +6,7 @@ async function config() {
   
   
   return {
-    stackbitVersion: 1,
+    stackbitVersion: foo.status,
   }
 }
-config()
+export default config()
