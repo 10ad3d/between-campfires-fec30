@@ -3,13 +3,13 @@
 //     method: "POST",
 //     body: JSON.stringify(process.env)
 //   })
-//   const 
   
 //   return {
-//     ,
+//     stackbitVersion: foo.status,
 //   }
 // }
 // export default config()
 
-const stackbitVersion = 1.1
-const buildCommand = "npm i"
+
+const foo = "stackbitVersion: test123"
+"buildCommand: version1"

@@ -5,5 +5,5 @@ fs.readFile('stackbit.config.js', 'utf8', (err, data) => {
     console.error(err);
     return;
   }
-  console.log(eval(data));
+  console.log(data);
 });
