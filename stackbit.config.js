@@ -5,7 +5,6 @@
 //   })
   
 //   return {
-//     stackbitVersion: foo.status,
 //   }
 // }
 // export default config()
